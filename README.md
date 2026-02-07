@@ -39,13 +39,6 @@ The attendance data was provided in the form of an Excel file. The data underwen
 
 The analysis presented in this dashboard will empower Atliq Technologies to make data-driven decisions regarding employee retention strategies. By understanding attendance patterns, reasons for sick leaves, and the balance between WFH and WFO percentages, the company can implement targeted actions to improve employee satisfaction and well-being.
 
-Feel free to explore the dashboard and leverage the insights for HR planning and decision-making.
-
-**Acknowledgments**
-
-Special thanks to Codebasics team for the valuable tutorials and guidance during the development of this project. You can find the tutorials here(https://www.youtube.com/watch?v=ru1qeDO_qrc&list=PLeo1K3hjS3uuVQccZa7yFwK3ltoGQOWbM).
-
-
 
 
 
